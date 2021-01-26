@@ -138,3 +138,5 @@ For more accurate forecasting for long periods (more than 14 days), we have deve
 This technique is called pseudo-labeling and used in semi-supervised learning.
 
 *(\*) we could use the exchange rate difference between this day and the next day as a target for our model to avoid this problem and to make target distribution more stationary*
+
+Original site: https://kytobiy-project.herokuapp.com/
