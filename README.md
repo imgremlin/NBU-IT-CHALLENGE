@@ -1,1 +1,0 @@
-# NBU-IT-CHALLENGE
