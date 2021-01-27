@@ -1,6 +1,8 @@
 # National Bank of Ukraine IT Challenge
 
-Hackathon from National Bank of Ukraine where we have to build machine learning model to predict USD/UAH exchange rate.
+* Hackathon from National Bank of Ukraine
+* Task: Predict USD/UAH exchange rate, Time-Series
+* Date: May-August 2020
 
 ## Overview
 
